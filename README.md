@@ -1,1 +1,3 @@
-# Curso-Práctico-de-HTML-y-CSS | Platzi
+#  | Platzi
+
+https://bgarciacuellar.github.io/Curso-Practico-de-HTML-y-CSS/
